@@ -1,4 +1,3 @@
-![](https://i.imgur.com/Naorek1.png)
 
  PassGAN Evaluation
 =======================
