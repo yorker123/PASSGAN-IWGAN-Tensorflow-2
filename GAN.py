@@ -47,7 +47,6 @@ flags.DEFINE_float('g_lr', .0001, 'Generator learning rate.')
 flags.DEFINE_float('d_lr', .0001, 'Discriminator learning rate.')
 flags.DEFINE_enum(
     'dataset', None,
-    ['rock_you'],
     'Dataset to train.')
 flags.DEFINE_boolean('preprocess', False, 'Pre-process the text data for normality.')
 flags.DEFINE_string('output_dir', '.', 'Output directory.')
